@@ -23,14 +23,6 @@ React.js │ Next.js │ JavaScript │ TypeScript │ HTML5 │ CSS3 │ Redux 
 Node.js │ Express.js │ MongoDB │ PostgreSQL │ REST APIs │ GraphQL
 ```
 
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
-</p>
-
 ## 🌟 Featured Projects
 
 ### 🚀 Project One
