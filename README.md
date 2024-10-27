@@ -34,14 +34,10 @@ Node.js │ Express.js │ MongoDB │ PostgreSQL │ REST APIs │ GraphQL
 ## 🌟 Featured Projects
 
 ### 🚀 Project One
-- Full-stack e-commerce platform
-- Tech: React, Node.js, MongoDB
-- [View Project](https://github.com/yourusername/project-one)
+- Shopping-cart
+- Tech: React,Firebase
+- [View Project](shopping-cart-self-nu.vercel.app)
 
-### 💼 Project Two
-- Real-time chat application
-- Tech: Socket.io, Express, Redis
-- [View Project](https://github.com/yourusername/project-two)
 
 
 ## 🤝 Connect With Me
