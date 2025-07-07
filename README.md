@@ -6,7 +6,7 @@
 
 ## About Me
 
-🚀 Full Stack Developer with a passion for creating robust web applications  
+🚀 Full Stack Development enthusiast passionate about building robust and scalable web applications
 💡 Love turning complex problems into simple, beautiful solutions  
 🌱 Always learning and exploring new technologies  
 👨‍💻 Enjoy contributing to Open Source Projects
@@ -20,7 +20,7 @@ React.js │ Next.js │ JavaScript │ TypeScript │ HTML5 │ CSS3 │ Redux 
 
 ### Backend Development
 ```
-Node.js │ Express.js │ MongoDB │ PostgreSQL │ REST APIs │ GraphQL
+Node.js │ Express.js │ MongoDB │ PostgreSQL │ REST APIs
 ```
 
 ## 🌟 Featured Projects
