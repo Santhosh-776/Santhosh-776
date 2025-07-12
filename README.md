@@ -35,9 +35,6 @@ Node.js │ Express.js │ MongoDB │ PostgreSQL │ REST APIs
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/santhosh-n-3379b42b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:santhoshnadarajan.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
